@@ -3,8 +3,8 @@ title: Naive Bayes Text Classifier
 emoji: ⚡
 colorFrom: green
 colorTo: blue
-sdk: streamlit
-sdk_version: 1.17.0
+sdk: gradio
+sdk_version: 3.1.4
 app_file: app.py
 pinned: false
 ---
