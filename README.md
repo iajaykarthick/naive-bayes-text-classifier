@@ -10,3 +10,5 @@ pinned: false
 ---
 
 # Naive Bayes Text Classifier Application
+
+![sync to hf hub workflow](https://github.com/iajaykarthick/naive-bayes-text-classifier/actions/workflows/main.yml/badge.svg?branch=app)
