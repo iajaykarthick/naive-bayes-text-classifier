@@ -1,7 +1,7 @@
 ---
-title: Naive Bayes Text Classifier
-emoji: 💩
-colorFrom: blue
+title: Text Classifier Naive Bayes
+emoji: 📈
+colorFrom: green
 colorTo: gray
 sdk: gradio
 sdk_version: 3.17.0

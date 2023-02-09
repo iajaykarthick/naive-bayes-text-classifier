@@ -107,4 +107,4 @@ def greet(name):
     return 'POSITIVE' if total_prob == 0 else 'NEGATIVE'
 
 iface = gr.Interface(fn=greet, inputs="text", outputs="text")
-iface.launch(share=True)
+iface.launch()
